@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Natural Light",
+  "base_artist": "Porter Robinson",
+  "createdAt": "2025-12-31T12:45:42.131842Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Natural Light",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/01_Natural_Light_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Natural Light (instrumental)",
+      "artist": "Casiotone for the Painfully Alone",
+      "has_synced": true,
+      "path": "select/02_Natural_Light_(instrumental)_Casiotone_for_the_Painfully_Alone.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Natural Light",
+      "artist": "Drive-By Truckers",
+      "has_synced": true,
+      "path": "select/03_Natural_Light_Drive-By_Truckers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Drown in a Natural Light",
+      "artist": "Biffy Clyro",
+      "has_synced": true,
+      "path": "select/04_Drown_in_a_Natural_Light_Biffy_Clyro.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Drown in a Natural Light",
+      "artist": "Biffy Clyro",
+      "has_synced": true,
+      "path": "select/05_Drown_in_a_Natural_Light_Biffy_Clyro.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Natural Light",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/pl_01_Natural_Light_Porter_Robinson.txt"
+    }
+  ]
+}
